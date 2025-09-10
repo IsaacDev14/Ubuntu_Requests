@@ -1,6 +1,6 @@
 # Ubuntu_Requests
 
-## Ubuntu-Inspired Image Fetcher 🖼️
+## Ubuntu-Inspired Image Fetcher 
 
 > "I am because we are." – Ubuntu Philosophy  
 
